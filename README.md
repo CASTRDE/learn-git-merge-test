@@ -1,1 +1,1 @@
-learn how to merge another branch
+learn to merge another branch
